@@ -1,0 +1,21 @@
+body{
+    background-color: aquamarine;
+}
+header{
+    background-color: #09695f;
+    color: white;
+}
+.website-header{
+    padding: 20px;
+    height: 80px;
+    display: flex;
+    flex-wrap:wrap;
+}
+.website-header img{
+    width: 110px;
+    height: 70px;
+    margin: 0 30px;
+}
+.wensite-header h1{
+    margin: auto 0;
+}
